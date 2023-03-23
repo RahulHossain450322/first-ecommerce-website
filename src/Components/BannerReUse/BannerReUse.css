@@ -1,0 +1,9 @@
+@media screen and (max-width:768px) {
+    .banner-content{
+        flex-direction: column;
+        padding-top: 2rem;
+    }
+    .banner-title{
+        padding-bottom: 1rem;
+    }
+}

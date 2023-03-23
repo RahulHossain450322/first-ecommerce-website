@@ -1,0 +1,31 @@
+.header{
+    background-color:skyblue;
+}
+.header-content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+}
+.cart-btn{
+    background-color: transparent;
+    font-size: 30px;
+}
+.form-control{
+    border-radius: 2px 0px 0px 2px !important;
+}
+.header-logo{
+    width: 150px;
+}
+.img{
+    width: 100%;
+}
+@media screen and (min-width:992px) {
+    .form-control{
+        width:500px !important;
+    }
+}
+@media screen and (min-width:768px) {
+    .form-control{
+        width:350px !important;
+    }
+}

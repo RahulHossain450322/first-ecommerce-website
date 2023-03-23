@@ -1,0 +1,28 @@
+.footer{
+    background-color: black !important;
+    padding: 4rem 0;
+    border-top: 1px solid red;
+    color:rgb(189, 195, 199) !important ;
+}
+.link{
+    color: rgb(189, 195, 199) !important ;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.footer_link{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+}
+.payment_section_image{
+    display: flex;
+    grid-gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+

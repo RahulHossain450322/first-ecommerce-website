@@ -1,0 +1,23 @@
+.login{
+    background-color: black;
+}
+.loginform{
+    border-left:none !important;
+    border-top:none !important;
+    border-right:none !important;
+    background-color: black !important;
+    border-color: rgb(231, 14, 14) !important;
+    color: aliceblue !important;
+    width: 100% !important;
+}
+.loginform:focus{
+    background-color: black !important;
+    outline: none !important;
+}
+.loginbtn{
+    border-radius: 2px !important;
+}
+.login-icon{
+    color: rgb(18, 223, 212) !important;
+    font-size: 30px !important;
+}

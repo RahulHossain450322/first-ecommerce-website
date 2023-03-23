@@ -1,0 +1,9 @@
+.product-design{
+    width: 200px;
+}
+.product-design:hover{
+    box-shadow: 2px 2px 10px 1px rgb(88, 85, 85);
+}
+.card-photo-design{
+    width: 200px;
+}

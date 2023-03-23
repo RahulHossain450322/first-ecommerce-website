@@ -1,0 +1,10 @@
+.product-list{
+    background-color: rgb(255, 254, 254);
+    width: 170px;
+    border-radius: 35px !important;
+    padding: 0px 0px;
+}
+.card-img{
+    width: 50px !important;
+    height: 50px !important;
+}
